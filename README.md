@@ -17,11 +17,11 @@
 <img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-10ac84?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=Docker&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Windows-0078d6?style=flat-square&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=Linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=Docker&logoColor=white"/>
 </div>
 
 ### Github Stats  
@@ -35,6 +35,7 @@
 #### 📫 How to reach me: ...
 [![Github Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/geunwoobaek)](https://github.com/geunwoobaek)
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-10ac84?style=flat-square&logo=blogger&logoColor=white&link=https://velog.io/@geunwoobaek)](https://velog.io/@geunwoobaek)
+[![Another Blog Badge](https://img.shields.io/badge/-Another%20blog-474787?style=flat-square&logo=blogger&logoColor=white&link=https://medium.com/@geunu3751)](https://medium.com/@geunu3751)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geunu3751@gmail.com)](mailto:geunu3751@gmail.com)
 
 <!-- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
