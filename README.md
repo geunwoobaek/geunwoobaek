@@ -4,8 +4,8 @@
 
 ## Hello, I'm Geunwoo 👋🏻
 ✨ I'm interested in <strong> Server engineering and MSA and AI/DS </strong> <br/>
-😄 I completed a software engineer internship at Naver Cloud Platform.</strong> <br/>
-🔭 I’m currently working on <strong>[Buzzvil](https://www.buzzvil.com/ko/main) and before wo</strong>  <br/>
+😄 I completed a software engineer internship at <strong> Naver Cloud Platform. </strong> <br/>
+🔭 I’m currently working on <strong>[Buzzvil](https://www.buzzvil.com/ko/main) </strong>  <br/>
 
 <div align="left">
 <h3> Tech Stack </h3>
