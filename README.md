@@ -4,7 +4,7 @@
 
 ## Hello, I'm Geunwoo 👋🏻
 ✨ I'm interested in <strong> Back-end web development and MSA and AI/DS </strong> <br/>
-🔭 I’m currently working on <strong> BuzzVil(https://www.buzzvil.com/ko/main)](https://github.com/geunwoobaek) </strong>  <br/>
+🔭 I’m currently working on <strong>[Buzzvil](https://github.com/geunwoobaek) </strong>  <br/>
 🌱 I’m currently learning <strong> SpringFramework and  MSA and Design-pattern,TDD and Infra. </strong> <br/>
 
 <div align="left">
