@@ -5,7 +5,7 @@
 ## Hello, I'm Geunwoo 👋🏻
 ✨ I'm interested in <strong> Server engineering and MSA and AI/DS </strong> <br/>
 😄 I completed a software engineer internship at <strong> Naver Cloud Platform </strong> <br/>
-
+🎮 I am currently working as a backend engineer at <strong> Nexon </strong> <br/>
 <div align="left">
 <h3> Tech Stack </h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
