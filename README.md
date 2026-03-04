@@ -10,7 +10,7 @@
 ### Highlights
 
 - **LLM 파이프라인**: Gemini API 기반 문서 자동화 (PDF/XLSX → OCR → LLM → API), 상품 등록 시간 90% 단축
-- **재고 할당 시스템**: 1인 설계·구축, Lock Ordering + Atomic Update 동시성 제어 — Deadlock 0건
+- **재고 할당 시스템**: 설계·구축, Lock Ordering + Atomic Update 동시성 제어 — Deadlock 0건
 - **DB 최적화**: 쿼리 성능 25배 개선 (5s → 200ms)
 - **실시간 파이프라인**: Kafka + Flink 기반 5개 게임 통합 이벤트 처리 (Nexon)
 
