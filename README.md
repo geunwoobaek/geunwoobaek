@@ -5,7 +5,7 @@
 ### Currently
 
 - **MakeStar** — K-POP 글로벌 커머스 OMS/TMS 백엔드 전담
-- LLM 기반 상품 등록 자동화, 재고 할당 시스템, 국제 배송비 산정 시스템 설계·구축
+- LLM 기반 상품 등록 자동화, 재고 할당 시스템, TMS·WMS 연동 설계·구축
 
 ### Highlights
 
