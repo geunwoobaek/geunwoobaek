@@ -1,56 +1,41 @@
-<div>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgeunwoobaek%2Fhit-counter&count_bg=%2313C6FF&title_bg=%23A2A2A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="right" />
-</div>  
+## Geunwoo Baek | Backend Engineer
 
-## Hello, I'm Geunwoo 👋🏻
-✨ I'm interested in <strong> Server engineering and MSA and AI/DS </strong> <br/>
-😄 I completed a software engineer internship at <strong> Naver Cloud Platform </strong> <br/>
-🎮 I am currently working as a backend engineer at <strong> Nexon </strong> <br/>
-<div align="left">
-<h3> Tech Stack </h3>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599c?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-10ac84?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=Docker&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Windows-0078d6?style=flat-square&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=Linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
-</div>
+5년차 백엔드 엔지니어. 커머스, 블록체인, 게임 등 다양한 도메인에서 비즈니스 핵심 시스템을 설계하고 운영해왔습니다.
 
-### Github Stats  
+### Currently
 
-<table><tr><td align="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=geunwoobaek&hide=prs&show_icons=true&theme=buefy&hide_border=true" align="left" style="width: 100%" />
-</td><td align="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geunwoobaek&hide=jupyter%20notebook&layout=compact&hide_border=true" align="left" style="width: 100%" />
-</td></tr></table>  
+- **MakeStar** — K-POP 글로벌 커머스 OMS/TMS 백엔드 전담
+- LLM 기반 상품 등록 자동화, 재고 할당 시스템, 국제 배송비 산정 시스템 설계·구축
 
-#### 📫 How to reach me: ...
-[![Github Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/geunwoobaek)](https://github.com/geunwoobaek)
-[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-10ac84?style=flat-square&logo=blogger&logoColor=white&link=https://velog.io/@geunwoobaek)](https://velog.io/@geunwoobaek)
-[![Another Blog Badge](https://img.shields.io/badge/-Another%20blog-474787?style=flat-square&logo=blogger&logoColor=white&link=https://medium.com/@geunu3751)](https://medium.com/@geunu3751)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geunu3751@gmail.com)](mailto:geunu3751@gmail.com)
+### Highlights
 
-<!-- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/gparkkii/?hl=ko)](https://www.instagram.com/gparkkii/?hl=ko) -->
+- **LLM 파이프라인**: Gemini API 기반 문서 자동화 (PDF/XLSX → OCR → LLM → API), 상품 등록 시간 90% 단축
+- **재고 할당 시스템**: 1인 설계·구축, Lock Ordering + Atomic Update 동시성 제어 — Deadlock 0건
+- **DB 최적화**: 쿼리 성능 25배 개선 (5s → 200ms)
+- **실시간 파이프라인**: Kafka + Flink 기반 5개 게임 통합 이벤트 처리 (Nexon)
 
-<!--
-**geunwoobaek/geunwoobaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Career
 
-Here are some ideas to get you started:
+| Company | Role | Period |
+|---------|------|--------|
+| **MakeStar** | Backend Engineer | 2024.05 ~ |
+| **Suhoio** | Backend Engineer | 2023.04 ~ 2024.03 |
+| **Nexon Korea** | Backend Engineer | 2022.01 ~ 2022.10 |
+| **Buzzvil** | Backend Engineer | 2021.05 ~ 2021.10 |
+| **Naver Cloud** | DB Engineering Intern | 2020.07 ~ 2020.08 |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+**Main**: Java, Kotlin, Spring Boot, JPA/QueryDSL, PostgreSQL, MySQL, Redis, Docker, Kubernetes
+
+**Experience**: Python, Django, FastAPI, TypeScript, NestJS, Scala, MongoDB, GraphQL, Kafka, Flink, GCP, AWS
+
+### Side Project
+
+**Quant Rotation Trading Bot** — 미국 주식 자동매매 시스템 + FastAPI 백오피스 대시보드 ([trader-dashboard](https://github.com/geunwoobaek/trader-dashboard))
+
+### Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:geunu3751@gmail.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@geunwoobaek)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@geunu3751)
