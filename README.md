@@ -19,7 +19,7 @@ Backend engineer with 5+ years of experience designing and operating core busine
 | Company | Role | Period |
 |---------|------|--------|
 | **MakeStar** | Backend Engineer | 2024.05 ~ |
-| **Suhoio** | Backend Engineer | 2023.04 ~ 2024.03 |
+| **Soohoio** | Backend Engineer | 2023.04 ~ 2024.03 |
 | **Nexon Korea** | Backend Engineer | 2022.01 ~ 2022.10 |
 | **Buzzvil** | Backend Engineer | 2021.05 ~ 2021.10 |
 | **Naver Cloud** | DB Engineering Intern | 2020.07 ~ 2020.08 |
